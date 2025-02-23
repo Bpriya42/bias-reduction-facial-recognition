@@ -1,1 +1,1 @@
-# bias-reduction-facial-recognition
+# Mitigating racial bias in Facial Recognition
